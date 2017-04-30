@@ -1,0 +1,14 @@
+package protodemo;
+
+message test1 {
+  optional string value1 = 1;
+}
+
+message test2 {
+  optional string value2 = 1;
+}
+
+message test3 {
+  optional string value3 = 1;
+}
+
